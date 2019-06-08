@@ -15,7 +15,7 @@ Let’s get started, shall we?
 
 2.  Watch the [video of this talk](https://www.youtube.com/watch?v=kbTvhWfvp2o&t=1215s) 
 
-3.  Watch the “Train the Trainer” video, a slide by slide breakdown of possible stories, concepts or ideas that you should ideally try to explain.
+3.  Watch the [“Train the Trainer”](https://www.youtube.com/watch?v=bWjPl-cKzFs) video, a slide by slide breakdown of possible stories, concepts or ideas that you should ideally try to explain.
 
 This presentation is just talking, no demos.  You only need the slide deck and a screen. 
 
@@ -24,7 +24,7 @@ This presentation is just talking, no demos.  You only need the slide deck and a
 - This guide
 - PowerPoint presentation including notes for each slide (in this folder)
 - Full-length recording of presentation [here](https://www.youtube.com/watch?v=kbTvhWfvp2o&t=1215s)
-- Recorded “Train the Trainer” session [here](Link?)
+- Recorded “Train the Trainer” session [here](https://www.youtube.com/watch?v=bWjPl-cKzFs)
 
 
 # Session Abstract
@@ -90,15 +90,15 @@ Q&A - this can take up to 20 minutes, budget an hour for this talk + Q&A if poss
 Train the Trainer Video
 =======================
 
-Recorded Train-The-Trainer session [here](link)
+Recorded Train-The-Trainer session [here](https://www.youtube.com/watch?v=bWjPl-cKzFs)
 
 
 ## Resources for Audience 
 
 * [https://aka.ms/GettingStartedWithAppSec](https://aka.ms/GettingStartedWithAppSec)
-* [https://aka.ms/PushingLeftBlog - https://code.likeagirl.io/pushing-left-like-a-boss-part-1-80f1f007da95](https://aka.ms/PushingLeftBlog - https://code.likeagirl.io/pushing-left-like-a-boss-part-1-80f1f007da95)
+* [Pushing Left Blog Series](https://code.likeagirl.io/pushing-left-like-a-boss-part-1-80f1f007da95)
 * [https://twitter.com/shehackspurple](https://twitter.com/shehackspurple)
-* [https://DevSlop.co ](https://DevSlop.co)
+* [https://DevSlop.co](https://DevSlop.co)
 * [https://medium.com/@SheHacksPurple](https://medium.com/@SheHacksPurple)
 * [https://youtube.com/SheHacksPurple ](https://youtube.com/SheHacksPurple )
 * [https://Dev.TO/SheHacksPurple](https://Dev.TO/SheHacksPurple])
