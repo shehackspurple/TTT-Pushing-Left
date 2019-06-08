@@ -1,7 +1,7 @@
 
 # Pushing Left, Like a Boss
 
-This is a “Train the Trainer” document, to be use by someone who wants to present this talk for an audience.  If you were hoping to learn more about this topic, and not to learn how to present this talk, stop reading this document and do this instead: 1) watch the [video of this talk](https://www.youtube.com/watch?v=kbTvhWfvp2o&t=1215s), 2) read the [blog series](https://code.likeagirl.io/pushing-left-like-a-boss-part-1-80f1f007da95) based on this talk and 3) follow the author of this talk to continue learning about this topic, [Tanya Janca](https://twitter.com/shehackspurple).  Thanks!
+This is a “Train the Trainer” document, to be uses by someone who wants to present this talk for an audience.  If you were hoping to learn more about this topic, and not to learn how to present this talk, stop reading this document and do this instead: 1) watch the [video of this talk](https://www.youtube.com/watch?v=kbTvhWfvp2o&t=1215s), 2) read the [blog series](https://code.likeagirl.io/pushing-left-like-a-boss-part-1-80f1f007da95) based on this talk and 3) follow the author of this talk to continue learning about this topic, [Tanya Janca](https://twitter.com/shehackspurple).  Thanks!
 
 ## How To Use
 
