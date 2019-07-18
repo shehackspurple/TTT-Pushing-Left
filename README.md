@@ -50,7 +50,7 @@ This talk can be anywhere from 25 minutes to 45 minutes, depending upon how many
 5-10: Current State of Affairs  
 Assure the audience that you know many of them know this, but you want to ensure everyone is at the same level.  This is important because many of them will know this first part and you don’t want them to leave, but also because many people think they know but are missing part of the picture.
 * Information on data breaches and AppSec being the #1 cause 3 years running
-* Many security teams only concentrate on the perimeter/network security and ‘enterprise security’, locking down workstations, phishing etc.  Yet alls are a window directly into your network, if they are insecure.
+* Many security teams only concentrate on the perimeter/network security and ‘enterprise security’, locking down workstations, phishing etc.  Yet apps are a window directly into your network, if they are insecure.
 * AppSec definition
 * Penetration testing - usually invited at the end, when it’s too late
 * CIA - the IT Security Mandate.  Why does everyone in IT not have this memorized?  
