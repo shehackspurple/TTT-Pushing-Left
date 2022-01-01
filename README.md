@@ -95,20 +95,18 @@ Recorded Train-The-Trainer session [here](https://www.youtube.com/watch?v=bWjPl-
 
 ## Resources for Audience 
 
-* [https://aka.ms/GettingStartedWithAppSec](https://aka.ms/GettingStartedWithAppSec)
-* [Pushing Left Blog Series](https://code.likeagirl.io/pushing-left-like-a-boss-part-1-80f1f007da95)
+* [https://shehackspurple.ca](https://shehackspurple.ca)
+* [Pushing Left Blog Series](https://wehackpurple.com/pushing-left-like-a-boss-part-1/)
 * [https://twitter.com/shehackspurple](https://twitter.com/shehackspurple)
-* [https://DevSlop.co](https://DevSlop.co)
-* [https://medium.com/@SheHacksPurple](https://medium.com/@SheHacksPurple)
+* [We Hack Purple Community](https://community.wehackpurple.com)
+* [We Hack Purple Blog](https://wehackpurple.com/blogs)
 * [https://youtube.com/SheHacksPurple ](https://youtube.com/SheHacksPurple )
-* [https://Dev.TO/SheHacksPurple](https://Dev.TO/SheHacksPurple])
-* [https://owasp.org](https://owasp.org)
 
 
 ## Document Information
 
 **Content Developer & Author**
-[Tanya Janca](https://Dev.TO/SheHacksPurple)
+[Tanya Janca](https://shehackspurple.ca)
 
 
 # Change Log
